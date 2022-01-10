@@ -1,7 +1,7 @@
 # A GDF11-centric glimpse in health and disease through natural language processing <!--Título do Trabalho-->
 
 #### Aluno: [Arnon Dias Jurberg](https://github.com/ajurberg), PhD
-#### Orientador: Leonardo Alfredo Forero Mendoza, PhD
+#### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8), PhD
 
 
 ---
