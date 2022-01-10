@@ -13,7 +13,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para a monografia](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
 
-- Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
+- Produção acadêmica relacionada:
     - [The Role of Embryonic Chick Muscle Cell Culture in the Study of Skeletal Myogenesis](https://www.frontiersin.org/articles/10.3389/fphys.2021.668600/full).
     - [Do medicine and cell biology talk to each other? A study of vocabulary similarities between fields](https://www.scielo.br/j/bjmbr/a/zWC4JBdSfB3NYvTwgR5BHNR/?lang=en).
 
