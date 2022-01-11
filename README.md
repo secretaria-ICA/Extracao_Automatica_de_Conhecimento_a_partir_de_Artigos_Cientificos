@@ -9,9 +9,12 @@
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 <!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
-- [Link para o código](https://github.com/ajurberg/article-parser). <!-- caso não aplicável, remover esta linha -->
+- Códigos:
+    - [01_fetch_pubmed_gdf11.ipynb](01_fetch_pubmed_gdf11.ipynb)
+    - [02_exploratory_analysis_gdf11.ipynb](02_exploratory_analysis_gdf11.ipynb)
+    - [03_download_pdfs_scidown_gdf11.ipynb](03_download_pdfs_scidown_gdf11.ipynb)
+    - [04_text_extraction_gdf11_v2.ipynb](04_text_extraction_gdf11_v2.ipynb)
 
-- [Link para a monografia](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
 
 - Produção acadêmica relacionada:
     - [The Role of Embryonic Chick Muscle Cell Culture in the Study of Skeletal Myogenesis](https://www.frontiersin.org/articles/10.3389/fphys.2021.668600/full).
