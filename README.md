@@ -72,9 +72,7 @@ A análise textual semântica visa examinar a similaridade entre dois textos ou 
 
 ### 4. Conclusões
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Esse trabalho apresentou um *pipeline* de obtenção de artigos científicos revistos por pares, extração de texto, pré-processamento/limpeza e análise semântica da corpora por três diferentes modelos (Word2Vec, Doc2Vec e LDA). Os nossos achados revelaram que essa é uma abordagem poderosa para a avaliação de uma grande quantidade de texto. Porém, ela não substitui completamente a leitura humana de artigos selecionados, uma vez que o aprendizado humano ainda é um processo individual que envolve o estudo e a reflexão sobre os assuntos de interesse. Além disso, as nossas observações mostraram que a etapa de pré-processamento e limpeza dos textos completos é crítica para o melhor treinamento dos modelos. Por fim, é importante ressaltar que, por essa razão, o treinamento e a avaliação dos modelos não foram realizados à exaustão e trabalhos futuros serão realizados para aprimorar os nossos achados. 
 
 ---
 
