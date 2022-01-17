@@ -62,7 +62,7 @@ O conjunto de dados de artigos GDF11 recuperados do PubMed retornou 436 entradas
 
 #### 3.2. *Word clouds*
 
-__DESCREVER__
+Nós geramos *word clouds* para representar as palavras mais frequentes nos títulos e nos resumos dos artigos publicados sobre GDF11. Esse tipo de visualização destaca as palavras mais frequentes, que são representadas com um tamanho de fonte maior enquanto as palavras menos frequentes são representadas com fontes cada vez menores. Após a remoção dos termos "gdf11", "growth differentiation factor 11" e "factor", os termos mais frequentes foram as palavras "*muscle*", "*cell*", "*mouse*" e "*myostatin*". De fato, a *word cloud* revelou os temas e modelos experimentais mais comuns abordados no campo. Em particular, a proteína miostatina/GDF8 exibe alta (>90%) similaridade de sequência com o GDF11 e ambas são expressas na musculatura. Já os termos "*cell*" e "*mouse*" representam os modelos experimentais mais utilizados no estudo desses dois ligantes. Outras palavras menos frequentes relevam também que GDF11 tem efeito pleiotrópico, i.e. exerce inúmeras funções diferentes em tipos celulares e tecidos distintos. 
 
 
 #### 3.3. *Análise semântica*
