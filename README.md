@@ -8,6 +8,8 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
+- [Link para o código](https://github.com/ajurberg/article-parser)
+
 - Códigos:
     - [01_fetch_pubmed_gdf11.ipynb](01_fetch_pubmed_gdf11.ipynb)
     - [02_exploratory_analysis_gdf11.ipynb](02_exploratory_analysis_gdf11.ipynb)
