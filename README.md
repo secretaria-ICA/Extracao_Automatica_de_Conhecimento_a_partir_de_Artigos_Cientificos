@@ -1,4 +1,4 @@
-# Extração automática de conhecimento a partir de artigos científicos <!--Título do Trabalho-->
+# Extração_Automática_de_Conhecimento_a_partir_de_Artigos_Científicos <!--Título do Trabalho-->
 
 #### Aluno: [Arnon Dias Jurberg](https://github.com/ajurberg), PhD
 #### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8), PhD
